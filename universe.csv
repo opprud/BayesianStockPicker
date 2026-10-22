@@ -1,0 +1,154 @@
+ticker,name,sector,region,country
+AAPL,Apple,Technology,North America,US
+MSFT,Microsoft,Technology,North America,US
+NVDA,Nvidia,Technology,North America,US
+ORCL,Oracle,Technology,North America,US
+ADBE,Adobe,Technology,North America,US
+CRM,Salesforce,Technology,North America,US
+AMD,AMD,Technology,North America,US
+INTC,Intel,Technology,North America,US
+CSCO,Cisco,Technology,North America,US
+QCOM,Qualcomm,Technology,North America,US
+TXN,Texas Instruments,Technology,North America,US
+IBM,IBM,Technology,North America,US
+GOOGL,Alphabet,Communication,North America,US
+META,Meta,Communication,North America,US
+NFLX,Netflix,Communication,North America,US
+DIS,Disney,Communication,North America,US
+VZ,Verizon,Communication,North America,US
+T,AT&T,Communication,North America,US
+AMZN,Amazon,Consumer Discretionary,North America,US
+TSLA,Tesla,Consumer Discretionary,North America,US
+HD,Home Depot,Consumer Discretionary,North America,US
+MCD,McDonald's,Consumer Discretionary,North America,US
+NKE,Nike,Consumer Discretionary,North America,US
+SBUX,Starbucks,Consumer Discretionary,North America,US
+JPM,JPMorgan Chase,Financials,North America,US
+BAC,Bank of America,Financials,North America,US
+GS,Goldman Sachs,Financials,North America,US
+V,Visa,Financials,North America,US
+MA,Mastercard,Financials,North America,US
+BRK-B,Berkshire Hathaway,Financials,North America,US
+JNJ,Johnson & Johnson,Health Care,North America,US
+PFE,Pfizer,Health Care,North America,US
+UNH,UnitedHealth,Health Care,North America,US
+LLY,Eli Lilly,Health Care,North America,US
+MRK,Merck,Health Care,North America,US
+ABBV,AbbVie,Health Care,North America,US
+TMO,Thermo Fisher,Health Care,North America,US
+XOM,Exxon Mobil,Energy,North America,US
+CVX,Chevron,Energy,North America,US
+COP,ConocoPhillips,Energy,North America,US
+SLB,Schlumberger,Energy,North America,US
+PG,Procter & Gamble,Consumer Staples,North America,US
+KO,Coca-Cola,Consumer Staples,North America,US
+PEP,PepsiCo,Consumer Staples,North America,US
+WMT,Walmart,Consumer Staples,North America,US
+COST,Costco,Consumer Staples,North America,US
+CAT,Caterpillar,Industrials,North America,US
+BA,Boeing,Industrials,North America,US
+GE,GE Aerospace,Industrials,North America,US
+HON,Honeywell,Industrials,North America,US
+UPS,UPS,Industrials,North America,US
+LMT,Lockheed Martin,Industrials,North America,US
+NEE,NextEra Energy,Utilities,North America,US
+DUK,Duke Energy,Utilities,North America,US
+SO,Southern Co,Utilities,North America,US
+AMT,American Tower,Real Estate,North America,US
+PLD,Prologis,Real Estate,North America,US
+O,Realty Income,Real Estate,North America,US
+LIN,Linde,Materials,North America,US
+FCX,Freeport-McMoRan,Materials,North America,US
+NEM,Newmont,Materials,North America,US
+RY.TO,Royal Bank of Canada,Financials,North America,CA
+ENB.TO,Enbridge,Energy,North America,CA
+CNR.TO,Canadian National Railway,Industrials,North America,CA
+NOVO-B.CO,Novo Nordisk,Health Care,Nordic,DK
+MAERSK-B.CO,A.P. Moller-Maersk,Industrials,Nordic,DK
+DSV.CO,DSV,Industrials,Nordic,DK
+ORSTED.CO,Orsted,Utilities,Nordic,DK
+VWS.CO,Vestas Wind Systems,Industrials,Nordic,DK
+CARL-B.CO,Carlsberg,Consumer Staples,Nordic,DK
+COLO-B.CO,Coloplast,Health Care,Nordic,DK
+GMAB.CO,Genmab,Health Care,Nordic,DK
+DANSKE.CO,Danske Bank,Financials,Nordic,DK
+PNDORA.CO,Pandora,Consumer Discretionary,Nordic,DK
+NSIS-B.CO,Novonesis,Materials,Nordic,DK
+DEMANT.CO,Demant,Health Care,Nordic,DK
+GN.CO,GN Store Nord,Health Care,Nordic,DK
+ROCK-B.CO,Rockwool,Industrials,Nordic,DK
+TRYG.CO,Tryg,Financials,Nordic,DK
+VOLV-B.ST,Volvo,Industrials,Nordic,SE
+ERIC-B.ST,Ericsson,Technology,Nordic,SE
+ATCO-A.ST,Atlas Copco,Industrials,Nordic,SE
+INVE-B.ST,Investor AB,Financials,Nordic,SE
+EQNR.OL,Equinor,Energy,Nordic,NO
+DNB.OL,DNB Bank,Financials,Nordic,NO
+SAP.DE,SAP,Technology,Europe,DE
+SIE.DE,Siemens,Industrials,Europe,DE
+ALV.DE,Allianz,Financials,Europe,DE
+BAS.DE,BASF,Materials,Europe,DE
+BAYN.DE,Bayer,Health Care,Europe,DE
+DTE.DE,Deutsche Telekom,Communication,Europe,DE
+MBG.DE,Mercedes-Benz,Consumer Discretionary,Europe,DE
+BMW.DE,BMW,Consumer Discretionary,Europe,DE
+ADS.DE,Adidas,Consumer Discretionary,Europe,DE
+MUV2.DE,Munich Re,Financials,Europe,DE
+RWE.DE,RWE,Utilities,Europe,DE
+MC.PA,LVMH,Consumer Discretionary,Europe,FR
+OR.PA,L'Oreal,Consumer Staples,Europe,FR
+TTE.PA,TotalEnergies,Energy,Europe,FR
+SAN.PA,Sanofi,Health Care,Europe,FR
+AIR.PA,Airbus,Industrials,Europe,FR
+BNP.PA,BNP Paribas,Financials,Europe,FR
+SU.PA,Schneider Electric,Industrials,Europe,FR
+AI.PA,Air Liquide,Materials,Europe,FR
+ASML.AS,ASML,Technology,Europe,NL
+INGA.AS,ING,Financials,Europe,NL
+AD.AS,Ahold Delhaize,Consumer Staples,Europe,NL
+NESN.SW,Nestle,Consumer Staples,Europe,CH
+NOVN.SW,Novartis,Health Care,Europe,CH
+ROG.SW,Roche,Health Care,Europe,CH
+UBSG.SW,UBS,Financials,Europe,CH
+ABBN.SW,ABB,Industrials,Europe,CH
+SHEL.L,Shell,Energy,Europe,UK
+AZN.L,AstraZeneca,Health Care,Europe,UK
+HSBA.L,HSBC,Financials,Europe,UK
+ULVR.L,Unilever,Consumer Staples,Europe,UK
+BP.L,BP,Energy,Europe,UK
+GSK.L,GSK,Health Care,Europe,UK
+RIO.L,Rio Tinto,Materials,Europe,UK
+BATS.L,British American Tobacco,Consumer Staples,Europe,UK
+NG.L,National Grid,Utilities,Europe,UK
+IBE.MC,Iberdrola,Utilities,Europe,ES
+SAN.MC,Banco Santander,Financials,Europe,ES
+ENEL.MI,Enel,Utilities,Europe,IT
+ISP.MI,Intesa Sanpaolo,Financials,Europe,IT
+7203.T,Toyota,Consumer Discretionary,Asia-Pacific,JP
+6758.T,Sony,Technology,Asia-Pacific,JP
+9984.T,SoftBank Group,Communication,Asia-Pacific,JP
+8306.T,Mitsubishi UFJ,Financials,Asia-Pacific,JP
+6861.T,Keyence,Technology,Asia-Pacific,JP
+9432.T,NTT,Communication,Asia-Pacific,JP
+4502.T,Takeda,Health Care,Asia-Pacific,JP
+7974.T,Nintendo,Communication,Asia-Pacific,JP
+8035.T,Tokyo Electron,Technology,Asia-Pacific,JP
+0700.HK,Tencent,Communication,Asia-Pacific,HK
+9988.HK,Alibaba,Consumer Discretionary,Asia-Pacific,HK
+1299.HK,AIA Group,Financials,Asia-Pacific,HK
+0941.HK,China Mobile,Communication,Asia-Pacific,HK
+0883.HK,CNOOC,Energy,Asia-Pacific,HK
+2318.HK,Ping An Insurance,Financials,Asia-Pacific,HK
+2330.TW,TSMC,Technology,Asia-Pacific,TW
+005930.KS,Samsung Electronics,Technology,Asia-Pacific,KR
+BHP.AX,BHP,Materials,Asia-Pacific,AU
+CBA.AX,Commonwealth Bank,Financials,Asia-Pacific,AU
+CSL.AX,CSL,Health Care,Asia-Pacific,AU
+WES.AX,Wesfarmers,Consumer Discretionary,Asia-Pacific,AU
+RELIANCE.NS,Reliance Industries,Energy,Emerging,IN
+INFY.NS,Infosys,Technology,Emerging,IN
+HDFCBANK.NS,HDFC Bank,Financials,Emerging,IN
+TCS.NS,Tata Consultancy,Technology,Emerging,IN
+VALE3.SA,Vale,Materials,Emerging,BR
+PETR4.SA,Petrobras,Energy,Emerging,BR
+ITUB4.SA,Itau Unibanco,Financials,Emerging,BR
